@@ -1,0 +1,9 @@
+/ve/
+*.so
+*.dylib
+build/
+*.o
+fib_api_mode.c
+bonusplugin.c
+/bonus/use
+a.out
